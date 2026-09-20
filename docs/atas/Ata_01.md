@@ -3,7 +3,7 @@
 
 ## 1. Relatório de Análise Estática de Requisitos
 
-Durante a análise dos requisitos fornecidos, a dupla identificou as seguintes ambiguidades que precisam ser definidas antes da codificação:
+Durante a análise dos requisitos fornecidos, identificamos as seguintes ambiguidades que precisam ser definidas antes da codificação:
 
 1. **Empate de Velocidade (SPD):** O documento diz que a ordem de ataque é definida estritamente pela Velocidade (SPD), mas não especifica o que acontece se ambos os pokesals tiverem o mesmo valor de SPD.
    - **Solução adotada pela equipe:** Em caso de empate na SPD, o pokesal controlado pelo jogador 1 terá a iniciativa ou um sitema de randomizacao.

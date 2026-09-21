@@ -1,10 +1,10 @@
 /**
- * Classe responsável por iniciar o sistema PokeSal.
+ * Classe para iniciar o sistema PokeSal.
  */
 public class Main {
 
     /**
-     * Ponto de entrada da aplicação.
+     * .
      *
      * @param args argumentos recebidos pela aplicação
      */
